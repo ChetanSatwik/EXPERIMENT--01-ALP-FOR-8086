@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name: N V Chetan Satwik
-Roll no : 212224240100
+# Name: N V Chetan Satwik
+# Roll no : 212224240100
 
 
 
